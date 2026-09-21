@@ -12,7 +12,7 @@ Run `npm run build` for a production build. `npx tsc --noEmit` checks TypeScript
 Edit `app/page.tsx` for content and `app/globals.css` for styling.
 See `RESEARCH.md` for sources and items requiring pantry confirmation before public launch.
 
-The initial review site is private and marked noindex. No donation processing, tracking, or personal-information collection is enabled.
+The proof of concept is marked noindex. No donation processing, tracking, or personal-information collection is enabled. `.openai/` is local Sites configuration and is ignored by Git; the project builds without it.
 
 The full starter lint currently flags existing unused vendor components in components/ui and hooks. Site source can be checked with `npx oxlint app`.
 

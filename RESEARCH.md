@@ -1,13 +1,13 @@
 # Research and launch checklist
 
-Research date: September 8, 2026.
+Research date: September 21, 2026.
 
 ## Verified public directory information
 - Organization: Bush Food Pantry, Bush, Louisiana.
 - Physical address: 81605 Hwy 41, Bush, LA 70431.
 - Phone: (985) 516-6091.
 - Food distribution for individuals and families; St. Tammany Parish residency; follows Second Harvest Food Bank guidelines.
-- Source: St. Tammany Parish Government, June 2024 resource guide: https://www.stpgov.org/Documents/Department/Health%20and%20Human%20Service/Community%20Resources/STP%20Resource%20Guide%20June%202024.pdf
+- Source: St. Tammany Parish Government, 2025 community resource list: https://cms3.revize.com/revize/sttammanyparish/Documents/Department/Health%20and%20Human%20Service/Community%20Resources/Community%20Resource%20List%202025.pdf
 - Historical schedule: first and third Mondays in the 2023 parish resource guide. This is explicitly presented as older information, not a current promise. https://cms3.revize.com/revize/sttammanyparish/Site%20Setup/Documents/Resident/CRL_2023.pdf
 - 2025 parish recovery plan describes nutrition and advocacy support for elderly, disabled, and financially/nutritionally insecure community members: https://home.treasury.gov/system/files/136/St-Tammany-Parish-Louisiana-2025-Recovery-Plan-SLT-2783.pdf
 
