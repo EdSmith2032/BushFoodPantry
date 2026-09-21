@@ -57,7 +57,7 @@ export default defineConfig(async () => {
       : undefined,
     plugins: [
       vinext(),
-      ...(hasHostingConfig ? [sites()] : []),
+      ...(hasHostingConfig && process.env.GITHUB_PAGES !== 'true' ? [sites()] : []),
       cloudflare({
         viteEnvironment: { name: 'rsc', childEnvironments: ['ssr'] },
         config: localBindingConfig,

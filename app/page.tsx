@@ -3,6 +3,7 @@ import { ArrowUpRight, Heart, MapPin, Phone, Sprout } from 'lucide-react';
 
 const phone = 'tel:+19855166091';
 const directions = 'https://www.google.com/maps/search/?api=1&query=81605+Highway+41+Bush+LA+70431';
+const assetBase = process.env.GITHUB_PAGES === 'true' ? '/BushFoodPantry' : '';
 
 function Brand() {
   return (
@@ -40,7 +41,7 @@ export default function Home() {
           <p className="call-note">Distribution days can change. Please call before you visit.</p>
         </div>
         <div className="hero-image">
-          <Image unoptimized src="/produce.jpg" width={1800} height={1196} alt="Fresh vegetables in market crates" priority />
+          <Image unoptimized src={`${assetBase}/produce.jpg`} width={1800} height={1196} alt="Fresh vegetables in market crates" priority />
           <span className="image-caption">Good food for our community.</span>
         </div>
       </section>
