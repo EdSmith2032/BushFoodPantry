@@ -15,5 +15,3 @@ See `RESEARCH.md` for sources and items requiring pantry confirmation before pub
 The proof of concept is marked noindex. No donation processing, tracking, or personal-information collection is enabled. `.openai/` is local Sites configuration and is ignored by Git; the project builds without it.
 
 The full starter lint currently flags existing unused vendor components in components/ui and hooks. Site source can be checked with `npx oxlint app`.
-
-A GitHub repository has not been created. The local project can be connected to the user's GitHub repository later.
